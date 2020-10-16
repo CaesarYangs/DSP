@@ -1,3 +1,7 @@
 # DSP
-BJUT DSP ！
-题目：待定
+- BJUT DSP ！
+  DSP stands for DataStureProjects
+  
+- *Nothing determined for now*
+
+
